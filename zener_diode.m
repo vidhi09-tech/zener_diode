@@ -2,10 +2,9 @@ clc;
 clear all;
 close all;
 t = 0:0.001:4;
-
-
 a1 = 1;
-a2 = 0.3;
+a2 = 0.3; //variable 1
+
 
 x1 = cos(pi*t);
 x2 = cos(pi*t);
